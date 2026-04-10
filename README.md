@@ -1,4 +1,1 @@
-This repository contains:
-
-1. Current work with Dr. Ethan O. Nadler, postdoc student Sandip Roy, and undergraduate student Roxanne Lai (all at UC San Diego) on a project studying the connection between subhalo counts and dark matter mass accretion. Work is stored in the Jupyter Notebook titled DM SUBHALOS WORK.
-2. A document titled Research Portfolio, detailing all past projects, complete with small summaries of results and techniques
+This branch contains current progress on working with the Symphony particle-level data to create visualizations and plots.
