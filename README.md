@@ -1,4 +1,3 @@
-This repository contains:
+This repository contains a detailed history of all work (past & present) with Dr. Ethan O. Nadler, postdoc student Sandip Roy, and undergraduate student Roxanne Lai (all at UC San Diego) regarding our project studying the connection between dark matter host mass accretion and subhalo population evolution as a function of time. This project started the summer after my first year at UCSD (June 2025) to the present day.
 
-1. Current work with Dr. Ethan O. Nadler, postdoc student Sandip Roy, and undergraduate student Roxanne Lai (all at UC San Diego) on a project studying the connection between subhalo counts and dark matter mass accretion. Work is stored in the Jupyter Notebook titled DM SUBHALOS WORK.
-2. A document titled Research Portfolio, detailing all past projects, complete with small summaries of results and techniques
+Jupyter notebooks entitled "DM SUBHALOS WORK" generally refer to iterations of work done during that summer, while the "DM tinkering" Jupyter notebooks usually refer to work done intermittently during the 2025-2026 school year. All work thus far has been using Dr. Nadler's Symphony suite of CDM-only cosmological simulations.
